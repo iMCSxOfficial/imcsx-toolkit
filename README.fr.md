@@ -6,7 +6,7 @@
 
 **Boîte à outils d'audit réseau & sécurité — pour tests d'intrusion autorisés.**
 
-![Version](https://img.shields.io/badge/version-1.0.1-blue)
+![Version](https://img.shields.io/badge/version-1.0.2-blue)
 ![Plateforme](https://img.shields.io/badge/plateforme-Linux-9cf)
 ![Édition](https://img.shields.io/badge/FREE-%26%20PRO-success)
 

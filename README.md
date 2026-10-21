@@ -6,7 +6,7 @@
 
 **Network & security auditing toolkit — for authorized penetration testing.**
 
-![Version](https://img.shields.io/badge/version-1.0.1-blue)
+![Version](https://img.shields.io/badge/version-1.0.2-blue)
 ![Platform](https://img.shields.io/badge/platform-Linux-9cf)
 ![Edition](https://img.shields.io/badge/FREE-%26%20PRO-success)
 
